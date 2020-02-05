@@ -1,0 +1,2 @@
+# MyGitRepository2020_2
+NewGRepository
